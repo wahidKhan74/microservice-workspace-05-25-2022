@@ -1,0 +1,6 @@
+1653463373301	Rename type 'Account'
+1653463479279	Rename type 'AccountNotFound'
+1653463500405	Rename type 'AccountAlreadyExist'
+1653463543619	Rename type 'AccountsController'
+1653463645309	Rename type 'AccountsServiceApplication'
+1653463647510	Rename type 'AccountsServiceApplicationTests'
